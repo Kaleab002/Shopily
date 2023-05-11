@@ -1,0 +1,14 @@
+.done{
+    opacity:0.2;
+    text-decoration: line-through;
+}
+.Title{
+    color: yellow;
+    font-size: 70px;
+    font-family: cursive;
+}
+.h2{
+    color:yellow;
+    font-size:20px;
+    font-family: cursive;
+}

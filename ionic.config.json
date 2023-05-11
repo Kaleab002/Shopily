@@ -1,0 +1,7 @@
+{
+  "name": "Shopily",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
